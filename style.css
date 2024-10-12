@@ -48,3 +48,7 @@ body{
     object-fit: cover; 
     margin: 10;
 }
+
+footer {
+    display: block;
+  }
